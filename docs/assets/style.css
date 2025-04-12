@@ -89,7 +89,7 @@ h6 {
   .linktree {
 	  width: 120px;
 	  height: 120px;
-	  background-image: url("./img/phtotoindex.png");
+	  background-image: url("../assets/img/phtotoindex.png");
 	  background-size: cover;
 	  background-repeat: no-repeat;
 	  background-position: 50% 50%;
